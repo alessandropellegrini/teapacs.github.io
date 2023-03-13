@@ -19,22 +19,14 @@ collections:
     venue: "Atlanta, GA, USA"
     location: "GeorgiaTech"
     dates: "June 1-2, 2022"
-'2021':
-
+  '2021':
     website: https://web.archive.org/web/20210421225351/https://www.acm-sigsim-pads.org/
-
-venue: "Suffolk, VA, USA"
-
+    venue: "Suffolk, VA, USA"
     dates: "May 31-June 2, 2021"
   '2021':
     website: https://web.archive.org/web/20210421225351/https://www.acm-sigsim-pads.org/
     venue: "Suffolk, VA, USA"
     dates: "May 31-June 2, 2021"
-
-
-
-
-
 
 
 # You are not likely expected to touch below this line
