@@ -1,8 +1,8 @@
-# PADS Website
+# TeaPACS Website
 
 ## How to start a new edition
 
-It is now time to start the work for a new edition of PADS. The organizing committee has been appointed, and it's time to reflect new year's information in the website. Of course, we do not want to destroy the history of the website, and "freeze" current year website. Also, we do want to generate a link to the now-previous year edition of PADS.
+It is now time to start the work for a new edition of TeaPACS. The organizing committee has been appointed, and it's time to reflect new year's information in the website. Of course, we do not want to destroy the history of the website, and "freeze" current year website. Also, we do want to generate a link to the now-previous year edition of TeaPACS.
 
 How complicated can it be?    
 It's a 30 seconds job! Just:
