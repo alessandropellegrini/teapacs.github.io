@@ -21,8 +21,8 @@ title: "Other Editions"
     {%- assign links = links | push: newlink -%}
 {%- endif -%}
 
-* **{{ year }}: {% if edition.title %}{{ edition.title }}{% else %}ACM SIGSIM Conference on Principles of Advanced Discrete Simulation{% endif %}**     
+* **{{ year }}: {% if edition.title %}{{ edition.title }}{% else %}International Workshop on Teaching Performance Analysis of Computer Systems{% endif %}**     
   *{{ edition.venue }} ({{ edition.dates }})*    
   {{ links | array_to_sentence_string: " - " }}    
-{%- endif -%}
-{% endfor %}
+  {%- endif -%}
+  {% endfor %}
