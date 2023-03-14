@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "T e a P A C S 2023"
+title: ""
 ---
 
 {% include banner.html picture="orlando.jpg" %}<!-- @IGNORE PREVIOUS: link -->
