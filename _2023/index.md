@@ -3,9 +3,7 @@ layout: default
 title: "The Second International Workshop on<br/>Teaching Performance Analysis of Computer Systems"
 ---
 
-{% comment %}
 {% include banner.html picture="orlando.jpg" %}<!-- @IGNORE PREVIOUS: link -->
-{% endcomment %}
 
 ---
 
