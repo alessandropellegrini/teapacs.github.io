@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "The Second International Workshop on<br/>Teaching Performance Analysis of Computer Systems"
 ---
 
 {% include banner.html picture="orlando.jpg" %}<!-- @IGNORE PREVIOUS: link -->
