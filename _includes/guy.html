@@ -16,9 +16,11 @@ Pictures should be placed in /assets/img/people/.
 {%- endcomment -%}
 
 <div class="guy">
+    {% if include.picture %}
     <div class="picture">
         <img alt="{{ include.name }}" src="{{ '/assets/img/people/' | append: include.picture | relative_url }}" />
     </div>
+    {%- endif -%}
     <div class="info">
         <p>
             {% if include.name %}<a href="{{ include.url }}" target="_blank">{{ include.name }}</a><br/>{%- endif -%}

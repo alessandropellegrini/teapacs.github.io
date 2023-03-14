@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "TeaPACS 2023"
+title: "T e a P A C S 2023"
 ---
 
-{% include banner.html picture="miami.jpg" %}<!-- @IGNORE PREVIOUS: link -->
+{% include banner.html picture="orlando.jpg" %}<!-- @IGNORE PREVIOUS: link -->
 
 ---
 
@@ -19,7 +19,3 @@ TeaPACS1 aimed to take stock of performance analysis as a discipline and discuss
 This Second Workshop (TeaPACS2) aims to explore further the issues raised in TeaPACS1: the importance of performance analysis, ignorance of related concepts among industry engineers and systems researchers, students' weakness in mathematical preparation, the need to accommodate their current interests and learning habits, etc.
 
 We issue here a call for academics, engineers and students to participate in TeaPACS2.  We have invited speakers who will provide keynotes on the above issues. However, the workshop's success depends on a productive dialogue and deliberation among all participants to summarise the state of our discipline and suggest a course of action for growing performance modeling and analysis.
-
-## Important Deadlines
-
-{% include_relative _important_dates.md %}
