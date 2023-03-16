@@ -16,7 +16,7 @@ The First International Workshop on Teaching Performance Analysis of Computer Sy
 It was motivated by the observation that, in the 50 years since the formation of ACM SIGMETRICS and IFIP TC 7 (which includes WG 7.3 Computer System Modeling), computing systems have changed drastically, and the growing complexity of systems, services and their relative context makes it more urgent and critical to model and analyse systems performance and behaviour. On the other hand, the teaching of performance modeling has faced cutbacks,
 as budgets are squeezed, and student interests shift.
 
-TeaPACS1 aimed to take stock of performance analysis as a discipline and discuss how our community should respond to this challenge. The abstracts for the talks and a recording of the discussions can be found in [Performance Evaluation Review](https://dl.acm.org/toc/sigmetrics/2022/49/4 ) and at the [TeaPACS1 website](https://www.performance2021.deib.polimi.it/www.performance2021.deib.polimi.it/teapacs/).
+TeaPACS1 aimed to take stock of performance analysis as a discipline and discuss how our community should respond to this challenge. The abstracts for the talks and a recording of the discussions can be found in [Performance Evaluation Review](https://dl.acm.org/toc/sigmetrics/2022/49/4 ) and at the [TeaPACS1 website](https://www.performance2021.deib.polimi.it/).
 
 This Second Workshop (TeaPACS 2023) aims to explore further the issues raised in TeaPACS 2021: the importance of performance analysis, ignorance of related concepts among industry engineers and systems researchers, students' weakness in mathematical preparation, the need to accommodate their current interests and learning habits, etc.
 
