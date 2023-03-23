@@ -3,7 +3,9 @@ layout: default
 title: "The Second International Workshop on<br/>T e a P A C S"
 ---
 
+{% comment %}
 {% include banner.html picture="orlando.jpg" %}<!-- @IGNORE PREVIOUS: link -->
+{% endcomment %}
 
 ---
 
