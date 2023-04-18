@@ -2,7 +2,7 @@
 layout: default
 
 {% comment %}
-title: "The International Workshop on<br/>T e a P A C S"
+{%title: "The International Workshop on<br/>T e a P A C S"
 {% endcomment %}
 ---
 
