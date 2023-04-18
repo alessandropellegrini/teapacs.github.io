@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Second International Workshop on<br/>T e a P A C S"
+title: "The International Workshop on<br/>T e a P A C S"
 ---
 
 {% comment %}
