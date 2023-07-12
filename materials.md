@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Materilas Archive"
+title: "Materials Archive"
 ---
 
 This webpage archives the material of the previous editions. The available slides are published with authorization from the authors.
