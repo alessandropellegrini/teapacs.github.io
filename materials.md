@@ -30,3 +30,8 @@ This webpage archives the material of the previous editions. The available slide
 **Giuseppe Serazzi** (Politecnico di Milano, Italy): _Updating the Content of Performance Analysis Textbooks_    
 [Extended Abstract](https://dl.acm.org/doi/10.1145/3543146.3543152) · [Slides](materials/2021-serazzi.pdf) · [Video](https://www.youtube.com/watch?v=cZCJFpvcriY)
 
+**Discussion 1** : _The current situation_
+[Video](https://www.youtube.com/watch?v=uWLIE9ldFAU)
+
+**Discussion 2** : _What we can do_
+[Video](https://www.youtube.com/watch?v=_L9VaD4Etf0)
