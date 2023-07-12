@@ -4,15 +4,16 @@ title: "Materials Archive"
 ---
 
 This webpage archives the material of the previous editions. 
+
 The available slides are published with authorization from the authors.
 
 # 2023
 
 **V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
-[Report]
+[Report] ·
 
 **Giuliano Casale** (Imperial College London, England): _Performance evaluation teaching in the age of cloud computing_  
-[Extended Abstract]
+[Extended Abstract] ·
 
 **Diwakar Krishnamurthy** (University of Calgary, Canada): _Teaching Software Performance Evaluation to Undergrads: Lessons Learned and Challenges_
 [Extended Abstract] · [Slides](materials/2023-Krishnamurthy.pdf)
