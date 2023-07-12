@@ -10,9 +10,16 @@ This webpage archives the material of the previous editions. The available slide
 **V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
 
 **Giuliano Casale** (Imperial College London, England): _Performance evaluation teaching in the age of cloud computing_  
+[Extended Abstract]
 
 **Diwakar Krishnamurthy** (University of Calgary, Canada): _Teaching Software Performance Evaluation to Undergrads: Lessons Learned and Challenges_
-[Extended Abstract] · [Slides]
+[Extended Abstract] · [Slides](materials/2023-Krishnamurthy.pdf)
+
+**Mohammad Hajiesmaili** (University of Massachusetts Amherst, USA): _Teaching Learning-augmented Algorithms with Societal Design Criteria_
+[Extended Abstract] · [Slides](materials/2023-Hajiesmaili.pdf)
+
+**Ziv Scully** (Cornell University, USA): _The Role of Advanced Math in Teaching Performance Modeling_
+[Extended Abstract] · [Slides](materials/2023-Scully.pdf)
 
 # 2021
 
