@@ -7,6 +7,13 @@ This webpage archives the material of the previous editions. The available slide
 
 # 2023
 
+**V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
+
+**Giuliano Casale** (Imperial College London, England): _Performance evaluation teaching in the age of cloud computing_  
+
+**Diwakar Krishnamurthy** (University of Calgary, Canada): _Teaching Software Performance Evaluation to Undergrads: Lessons Learned and Challenges_
+[Extended Abstract] · [Slides]
+
 # 2021
 
 **V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the First International Workshop on Teaching Performance Analysis of Computer Systems_  
