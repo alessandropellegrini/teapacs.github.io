@@ -13,7 +13,7 @@ The available slides are published with authorization from the authors.
 [Report](materials/2023TeaPACS2proc.pdf) ·
 
 **Giuliano Casale** (Imperial College London, England): _Performance evaluation teaching in the age of cloud computing_  
-[Extended Abstract](materials/2023TeaPACS2Casale.pdf)
+[Extended Abstract](materials/2023TeaPACS2_Casale.pdf)
 
 **Diwakar Krishnamurthy** (University of Calgary, Canada): _Teaching Software Performance Evaluation to Undergrads: Lessons Learned and Challenges_
 [Extended Abstract](materials/2023PER_TePacsDiwakar.pdf) · [Slides](materials/2023-Krishnamurthy.pdf) 
