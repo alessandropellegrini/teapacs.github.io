@@ -13,16 +13,17 @@ The available slides are published with authorization from the authors.
 [Report](materials/2023TeaPACS2proc.pdf) ·
 
 **Giuliano Casale** (Imperial College London, England): _Performance evaluation teaching in the age of cloud computing_  
-[Extended Abstract] ·
+[Extended Abstract](materials/2023TeaPACS2Casale.pdf)
 
 **Diwakar Krishnamurthy** (University of Calgary, Canada): _Teaching Software Performance Evaluation to Undergrads: Lessons Learned and Challenges_
-[Extended Abstract] · [Slides](materials/2023-Krishnamurthy.pdf)
+[Extended Abstract](materials/2023PER_TePacsDiwakar.pdf) · [Slides](materials/2023-Krishnamurthy.pdf) 
 
 **Mohammad Hajiesmaili** (University of Massachusetts Amherst, USA): _Teaching Learning-augmented Algorithms with Societal Design Criteria_
-[Extended Abstract] · [Slides](materials/2023-Hajiesmaili.pdf)
+[Extended Abstract](materials/2023TeaPACS2_SocietalAlgorithmDesign_Hajiesmaili.pdf) · [Slides](materials/2023-Hajiesmaili.pdf)
 
 **Ziv Scully** (Cornell University, USA): _The Role of Advanced Math in Teaching Performance Modeling_
-[Extended Abstract] · [Slides](materials/2023-Scully.pdf)
+[Extended Abstract](materials/2023TeaPACS2_Ziv.pdf) · [Slides](materials/2023-Scully.pdf) 
+
 
 # 2021
 
