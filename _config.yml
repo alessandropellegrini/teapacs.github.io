@@ -2,7 +2,7 @@ title: "T e a P A C S"
 description: International Workshop on Teaching Performance Analysis of Computer Systems
 
 # Change this to the year which shall appear as "default" in the website
-current_year: 2023
+current_year: 2024
 
 # The following array is used to populate previous editions.
 # If the edition is hosted by this site, a corresponding _20xx
@@ -13,6 +13,12 @@ current_year: 2023
 # markdown files rely on them throughout the text, so if you clone the content of a past
 # edition and set these variables correctly, a good part of the site is already consistent.
 collections:
+  '2024':
+    output: true
+    permalink: /:collection/:title
+    venue: "Venice, Italy"
+    location: "San Servolo Congress Center"
+    dates: "June 14, 2024"
   '2023':
     output: true
     permalink: /:collection/:title
