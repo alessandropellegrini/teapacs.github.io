@@ -19,18 +19,21 @@ collections:
     venue: "Venice, Italy"
     location: "San Servolo Congress Center"
     dates: "June 14, 2024"
+    header: "background.png"
   '2023':
     output: true
     permalink: /:collection/:title
     venue: "Orlando, FL, USA"
     location: "Orlando World Marriott"
     dates: "June 19, 2023"
+    header: "background.png"
   '2021':
     output: true
     permalink: /:collection/:title
     venue: "Milano, Italy"
     location: Politecnico Di Milano
     dates: "November 12, 2021"
+    header: "background.png"
 
 # You are not likely expected to touch below this line
 exclude: [README.md, LICENSE]
