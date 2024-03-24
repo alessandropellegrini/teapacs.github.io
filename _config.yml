@@ -26,14 +26,14 @@ collections:
     venue: "Orlando, FL, USA"
     location: "Orlando World Marriott"
     dates: "June 19, 2023"
-    header: "background.png"
+    header: "backgroundBlack.png"
   '2021':
     output: true
     permalink: /:collection/:title
     venue: "Milano, Italy"
     location: Politecnico Di Milano
     dates: "November 12, 2021"
-    header: "background.png"
+    header: "backgroundBlack.png"
 
 # You are not likely expected to touch below this line
 exclude: [README.md, LICENSE]
