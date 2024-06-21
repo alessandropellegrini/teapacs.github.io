@@ -27,6 +27,7 @@ The available slides are published with authorization from the authors.
 **Cristina L. Abad** (Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador) _How can we teach workload modeling in CS systems classes?_ 
 [Slides](materials/2024-Abad.pdf)
 
+
 <!--
 **Giuliano Casale** (Imperial College London, England): _Performance evaluation teaching in the age of cloud computing_  
 [Extended Abstract](materials/2023TeaPACS2_Casale.pdf)
@@ -40,6 +41,7 @@ The available slides are published with authorization from the authors.
 **Ziv Scully** (Cornell University, USA): _The Role of Advanced Math in Teaching Performance Modeling_
 [Extended Abstract](materials/2023TeaPACS2_Ziv.pdf) · [Slides](materials/2023-Scully.pdf) 
 -->
+
 
 # 2023
 
