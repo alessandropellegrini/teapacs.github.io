@@ -13,6 +13,15 @@ The available slides are published with authorization from the authors.
 **V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
 [Report](materials/2023TeaPACS2proc.pdf) ·
 
+**Dieter Fiems** (Ghent University): _Teaching performance analysis: essential skills and learning outcomes_
+
+**Michela Meo** (Politecnico di Torino, Italy): _Why Should I Teach Performance Evaluation to Students in Networking?_
+
+**Ana-Lucia Varbanescu** (University of Twente): _Title: Combining "real" and "artificial" intelligence for performance engineering: a toolbox approach_
+
+**Cristina L. Abad** ( ) _How can we teach workload modeling in CS systems classes?_
+
+
 **Giuliano Casale** (Imperial College London, England): _Performance evaluation teaching in the age of cloud computing_  
 [Extended Abstract](materials/2023TeaPACS2_Casale.pdf)
 
