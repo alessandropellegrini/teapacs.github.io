@@ -24,7 +24,7 @@ The available slides are published with authorization from the authors.
 **Ana-Lucia Varbanescu** (University of Twente, Netherlands): _Title: Combining "real" and "artificial" intelligence for performance engineering: a toolbox approach_
 -->
 
-**Cristina L. Abad** (Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador) _How can we teach workload modeling in CS systems classes?_
+**Cristina L. Abad** (Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador) _How can we teach workload modeling in CS systems classes?_ 
 [Slides](materials/2024-Abad.pdf)
 
 <!--
