@@ -14,8 +14,9 @@ The available slides are published with authorization from the authors.
 **V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
 [Report](materials/2023TeaPACS2proc.pdf) ·
 
-**Dieter Fiems** (Ghent University, Belgium): _Teaching performance analysis: essential skills and learning outcomes_
 -->
+**Dieter Fiems** (Ghent University, Belgium): _Teaching performance analysis: essential skills and learning outcomes_
+[Slides](materials/2024-Dieter.pdf)
 
 **Michela Meo** (Politecnico di Torino, Italy): _Why Should I Teach Performance Evaluation to Students in Networking?_
 [Slides](materials/2024-Meo.pdf)
