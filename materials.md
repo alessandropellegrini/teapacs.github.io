@@ -8,7 +8,7 @@ This webpage archives the material of the previous editions.
 The available slides are published with authorization from the authors.
 
 
-# 2024 (to be completed)
+# 2024 
 
 <!--
 **V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
@@ -21,9 +21,8 @@ The available slides are published with authorization from the authors.
 **Michela Meo** (Politecnico di Torino, Italy): _Why Should I Teach Performance Evaluation to Students in Networking?_
 [Slides](materials/2024-Meo.pdf)
 
-<!--
 **Ana-Lucia Varbanescu** (University of Twente, Netherlands): _Title: Combining "real" and "artificial" intelligence for performance engineering: a toolbox approach_
--->
+[Slides](materials/2024-Varbanescu.pdf)
 
 **Cristina L. Abad** (Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador) _How can we teach workload modeling in CS systems classes?_ 
 [Slides](materials/2024-Abad.pdf)
