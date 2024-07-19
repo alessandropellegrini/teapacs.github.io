@@ -16,7 +16,7 @@ The available slides are published with authorization from the authors.
 
 -->
 **Dieter Fiems** (Ghent University, Belgium): _Teaching performance analysis: essential skills and learning outcomes_
-[Slides](materials/2024-Dieter.pdf)
+[Slides](materials/2024-Fiems.pdf)
 
 **Michela Meo** (Politecnico di Torino, Italy): _Why Should I Teach Performance Evaluation to Students in Networking?_
 [Slides](materials/2024-Meo.pdf)
