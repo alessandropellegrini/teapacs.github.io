@@ -11,7 +11,7 @@ The available slides are published with authorization from the authors.
 # 2024 
 
 
-**V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
+**V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Third International Workshop on Teaching Performance Analysis of Computer Systems_
 [Report](materials/2024TeaPACSproc.pdf) ·
 
 **Dieter Fiems** (Ghent University, Belgium): _Teaching performance analysis: essential skills and learning outcomes_
