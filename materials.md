@@ -10,36 +10,24 @@ The available slides are published with authorization from the authors.
 
 # 2024 
 
-<!--
-**V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
-[Report](materials/2023TeaPACS2proc.pdf) ·
 
--->
+**V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the Second International Workshop on Teaching Performance Analysis of Computer Systems_
+[Report](materials/2024TeaPACSproc.pdf) ·
+
 **Dieter Fiems** (Ghent University, Belgium): _Teaching performance analysis: essential skills and learning outcomes_
-[Slides](materials/2024-Fiems.pdf)
+[Extended Abstract](materials/2024TeaPACSfiems.pdf) ·[Slides](materials/2024-Fiems.pdf)
 
 **Michela Meo** (Politecnico di Torino, Italy): _Why Should I Teach Performance Evaluation to Students in Networking?_
-[Slides](materials/2024-Meo.pdf)
+[Extended Abstract](materials/2024TeaPACSmeo.pdf) ·[Slides](materials/2024-Meo.pdf)
 
 **Ana-Lucia Varbanescu** (University of Twente, Netherlands): _Title: Combining "real" and "artificial" intelligence for performance engineering: a toolbox approach_
 [Slides](materials/2024-Varbanescu.pdf)
 
 **Cristina L. Abad** (Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador) _How can we teach workload modeling in CS systems classes?_ 
-[Slides](materials/2024-Abad.pdf)
+[Extended Abstract](materials/2024TeaPACSfabad.pdf) ·[Slides](materials/2024-Abad.pdf)
 
 
 <!--
-**Giuliano Casale** (Imperial College London, England): _Performance evaluation teaching in the age of cloud computing_  
-[Extended Abstract](materials/2023TeaPACS2_Casale.pdf)
-
-**Diwakar Krishnamurthy** (University of Calgary, Canada): _Teaching Software Performance Evaluation to Undergrads: Lessons Learned and Challenges_
-[Extended Abstract](materials/2023PER_TePacsDiwakar.pdf) · [Slides](materials/2023-Krishnamurthy.pdf) 
-
-**Mohammad Hajiesmaili** (University of Massachusetts Amherst, USA): _Teaching Learning-augmented Algorithms with Societal Design Criteria_
-[Extended Abstract](materials/2023TeaPACS2_SocietalAlgorithmDesign_Hajiesmaili.pdf) · [Slides](materials/2023-Hajiesmaili.pdf)
-
-**Ziv Scully** (Cornell University, USA): _The Role of Advanced Math in Teaching Performance Modeling_
-[Extended Abstract](materials/2023TeaPACS2_Ziv.pdf) · [Slides](materials/2023-Scully.pdf) 
 -->
 
 
