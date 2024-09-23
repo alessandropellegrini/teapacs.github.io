@@ -24,7 +24,7 @@ The available slides are published with authorization from the authors.
 [Slides](materials/2024-Varbanescu.pdf)
 
 **Cristina L. Abad** (Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador) _How can we teach workload modeling in CS systems classes?_ 
-[Extended Abstract](materials/2024TeaPACSfabad.pdf) ·[Slides](materials/2024-Abad.pdf)
+[Extended Abstract](materials/2024TeaPACSabad.pdf) ·[Slides](materials/2024-Abad.pdf)
 
 
 <!--
